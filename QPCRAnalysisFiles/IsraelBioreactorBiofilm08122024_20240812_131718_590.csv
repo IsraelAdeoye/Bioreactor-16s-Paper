@@ -1,0 +1,193 @@
+﻿Well,Sample description 1,Sample description 2,Sample description 3,Sample description 4,Target,Conc(copies/µL),Status,Experiment,SampleType,TargetType,Supermix,DyeName(s),Accepted Droplets,Positives,Negatives
+A01,Van A positive,,,,1,15.9924917221069,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12823,162,12661
+A01,Van A positive,,,,2,No Call,CHECK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12823,0,12823
+A02,Van A positive,,,,1,16.1136627197266,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13120,167,12953
+A02,Van A positive,,,,2,No Call,CHECK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13120,0,13120
+A03,Van A positive,,,,1,15.5074262619019,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14609,179,14430
+A03,Van A positive,,,,2,1.20600354671478,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14609,14,14595
+A04,B040324 (2),,,,1,1.26551222801208,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10939,11,10928
+A04,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10939,0,10939
+A05,B040324 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10620,0,10620
+A05,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10620,0,10620
+A06,B040324 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12149,0,12149
+A06,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12149,0,12149
+A07,B042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,0,0,0
+A07,B042424 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,0,0,0
+A08,B042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15722,0,15722
+A08,B042424 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15722,0,15722
+A09,B042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14386,0,14386
+A09,B042424 (2),,,,2,0.349794656038284,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14386,4,14382
+A10,BB041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16316,0,16316
+A10,BB041724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16316,0,16316
+A11,BB041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15597,0,15597
+A11,BB041724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15597,0,15597
+A12,BB041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14763,0,14763
+A12,BB041724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14763,0,14763
+B01,KPC positive,,,,1,No Call,CHECK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14032,0,14032
+B01,KPC positive,,,,2,11.1650581359863,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14032,124,13908
+B02,KPC positive,,,,1,No Call,CHECK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12736,0,12736
+B02,KPC positive,,,,2,10.5128202438354,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12736,106,12630
+B03,KPC positive,,,,1,No Call,CHECK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15146,0,15146
+B03,KPC positive,,,,2,9.5870885848999,OK,DQ,PosCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15146,115,15031
+B04,B041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11802,0,11802
+B04,B041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11802,0,11802
+B05,B041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10204,0,10204
+B05,B041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10204,0,10204
+B06,B041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14144,0,14144
+B06,B041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14144,0,14144
+B07,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,3670,0,3670
+B07,B042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,3670,0,3670
+B08,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14057,0,14057
+B08,B042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14057,0,14057
+B09,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14718,0,14718
+B09,B042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14718,0,14718
+B10,BB041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14640,0,14640
+B10,BB041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14640,0,14640
+B11,BB041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14606,0,14606
+B11,BB041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14606,0,14606
+B12,BB041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15444,0,15444
+B12,BB041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15444,0,15444
+C01,Negative Control,,,,1,No Call,CHECK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12121,0,12121
+C01,Negative Control,,,,2,No Call,CHECK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12121,0,12121
+C02,Negative Control,,,,1,No Call,CHECK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13693,0,13693
+C02,Negative Control,,,,2,0.918952167034149,OK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13693,10,13683
+C03,Negative Control,,,,1,No Call,CHECK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13794,0,13794
+C03,Negative Control,,,,2,No Call,CHECK,DQ,NegCtrl,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13794,0,13794
+C04,B041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12593,0,12593
+C04,B041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12593,0,12593
+C05,B041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12837,0,12837
+C05,B041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12837,0,12837
+C06,B041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11976,0,11976
+C06,B041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11976,0,11976
+C07,B050124 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,0,0,0
+C07,B050124 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,0,0,0
+C08,B050124 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15733,0,15733
+C08,B050124 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15733,0,15733
+C09,B050124 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14920,0,14920
+C09,B050124 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14920,0,14920
+C10,BB041724 (3),,,,1,1.63053488731384,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13123,17,13106
+C10,BB041724 (3),,,,2,0.479349732398987,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13123,5,13118
+C11,BB041724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14228,0,14228
+C11,BB041724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14228,0,14228
+C12,BB041724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16148,0,16148
+C12,BB041724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16148,0,16148
+D01,B032724 (1),,,,1,0.505639135837555,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14929,6,14923
+D01,B032724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14929,0,14929
+D02,B032724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14446,0,14446
+D02,B032724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14446,0,14446
+D03,B032724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14097,0,14097
+D03,B032724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14097,0,14097
+D04,B041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12265,0,12265
+D04,B041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12265,0,12265
+D05,B041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13019,0,13019
+D05,B041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13019,0,13019
+D06,B041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13420,0,13420
+D06,B041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13420,0,13420
+D07,B050124 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,0,0,0
+D07,B050124 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,0,0,0
+D08,B050124 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14357,0,14357
+D08,B050124 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14357,0,14357
+D09,B050124 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14364,0,14364
+D09,B050124 (2),,,,2,0.788380861282349,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14364,9,14355
+D10,BB042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,6316,0,6316
+D10,BB042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,6316,0,6316
+D11,BB042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14549,0,14549
+D11,BB042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14549,0,14549
+D12,BB042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16285,0,16285
+D12,BB042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16285,0,16285
+E01,B032724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12582,0,12582
+E01,B032724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12582,0,12582
+E02,B032724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13830,0,13830
+E02,B032724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13830,0,13830
+E03,B032724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14421,0,14421
+E03,B032724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14421,0,14421
+E04,B041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12462,0,12462
+E04,B041724 (1),,,,2,2.72822237014771,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12462,27,12435
+E05,B041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10436,0,10436
+E05,B041724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10436,0,10436
+E06,B041724 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13611,0,13611
+E06,B041724 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13611,0,13611
+E07,B050124 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,0,0,0
+E07,B050124 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,0,0,0
+E08,B050124 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13913,0,13913
+E08,B050124 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13913,0,13913
+E09,B050124 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15463,0,15463
+E09,B050124 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15463,0,15463
+E10,BB042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15487,26,15461
+E10,BB042424 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15487,0,15487
+E11,BB042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14762,0,14762
+E11,BB042424 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14762,0,14762
+E12,BB042424 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13290,0,13290
+E12,BB042424 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13290,0,13290
+F01,B032724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,5485,5481,4
+F01,B032724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,5485,0,5485
+F02,B032724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13125,0,13125
+F02,B032724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13125,0,13125
+F03,B032724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12767,0,12767
+F03,B032724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12767,0,12767
+F04,B041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13143,0,13143
+F04,B041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13143,0,13143
+F05,B041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11989,0,11989
+F05,B041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11989,0,11989
+F06,B041724 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13068,0,13068
+F06,B041724 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13068,0,13068
+F07,BB041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,0,0,0
+F07,BB041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,0,0,0
+F08,BB041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14754,0,14754
+F08,BB041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14754,0,14754
+F09,BB041024 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12389,0,12389
+F09,BB041024 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12389,0,12389
+F10,BB042424 (1),,,,1,0.644844651222229,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13658,7,13651
+F10,BB042424 (1),,,,2,0.921307921409607,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13658,10,13648
+F11,BB042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14035,0,14035
+F11,BB042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14035,0,14035
+F12,BB042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15972,0,15972
+F12,BB042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15972,0,15972
+G01,B040324 (1),,,,1,0.499382615089417,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15116,6,15110
+G01,B040324 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15116,0,15116
+G02,B040324 (1),,,,1,1.02405202388763,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13517,11,13506
+G02,B040324 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13517,0,13517
+G03,B040324 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14787,8,14779
+G03,B040324 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14787,0,14787
+G04,B041724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13185,0,13185
+G04,B041724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13185,0,13185
+G05,B041724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12957,0,12957
+G05,B041724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12957,0,12957
+G06,B041724 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12439,0,12439
+G06,B041724 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12439,0,12439
+G07,BB041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,887,0,887
+G07,BB041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,887,0,887
+G08,BB041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16069,0,16069
+G08,BB041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16069,0,16069
+G09,BB041024 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12300,0,12300
+G09,BB041024 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12300,0,12300
+G10,Nil,,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11466,7,11459
+G10,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11466,0,11466
+G11,Nil,,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10189,0,10189
+G11,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10189,0,10189
+G12,Nil,,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12872,0,12872
+G12,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12872,0,12872
+H01,B040324 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,8210,0,8210
+H01,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,8210,0,8210
+H02,B040324 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14158,0,14158
+H02,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14158,0,14158
+H03,B040324 (2),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12132,0,12132
+H03,B040324 (2),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12132,0,12132
+H04,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11544,0,11544
+H04,B042424 (1),,,,2,1.0900958776474,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11544,10,11534
+H05,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12137,0,12137
+H05,B042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12137,0,12137
+H06,B042424 (1),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12215,0,12215
+H06,B042424 (1),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12215,0,12215
+H07,BB041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,2460,0,2460
+H07,BB041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,2460,5,2455
+H08,BB041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16112,0,16112
+H08,BB041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16112,0,16112
+H09,BB041024 (3),,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12068,0,12068
+H09,BB041024 (3),,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12068,0,12068
+H10,Nil,,,,1,0.746537089347839,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11798,7,11791
+H10,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11798,0,11798
+H11,Nil,,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,8405,0,8405
+H11,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,8405,8402,3
+H12,Nil,,,,1,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12572,0,12572
+H12,Nil,,,,2,No Call,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12572,0,12572

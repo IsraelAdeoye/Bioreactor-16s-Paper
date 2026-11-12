@@ -1,0 +1,127 @@
+﻿Well,Sample description 1,Sample description 2,SampleType,Period,ARG,Sample description 3,Sample description 4,Target,Conc(copies/µL),Status,Experiment,SampleType,TargetType,Supermix,DyeName(s),Accepted Droplets,Positives,Negatives
+A04,03-20-24-Control6,,Sample,Day6,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16542,0,16542
+A04,03-20-24-Control6,,Sample,Day6,KPC,,,2,0.532396019,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16542,7,16535
+A05,03-20-24-Control6,,Sample,Day6,Van A,,,1,0.809382677,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15546,10,15536
+A05,03-20-24-Control6,,Sample,Day6,KPC,,,2,1.052299142,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15546,13,15533
+A06,03-20-24-Control6,,Sample,Day6,Van A,,,1,1.115884066,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16916,15,16901
+A06,03-20-24-Control6,,Sample,Day6,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16916,0,16916
+A07,04-10-24-2,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11886,0,11886
+A07,04-10-24-2,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11886,0,11886
+A08,04-10-24-2,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15502,0,15502
+A08,04-10-24-2,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15502,0,15502
+A09,04-10-24-2,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14851,0,14851
+A09,04-10-24-2,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14851,0,14851
+A10,05-01-24-1,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,5296,0,5296
+A10,05-01-24-1,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,5296,5,5291
+A11,05-01-24-1,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,8091,0,8091
+A11,05-01-24-1,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,8091,0,8091
+A12,05-01-24-1,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,8291,0,8291
+A12,05-01-24-1,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,8291,0,8291
+B04,03-27-24-1,,Sample,Day13,Van A,,,1,1.302491188,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16426,17,16409
+B04,03-27-24-1,,Sample,Day13,KPC,,,2,0.612769008,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16426,8,16418
+B05,03-27-24-1,,Sample,Day13,Van A,,,1,1.024595499,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14738,12,14726
+B05,03-27-24-1,,Sample,Day13,KPC,,,2,0.853771567,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14738,10,14728
+B06,03-27-24-1,,Sample,Day13,Van A,,,1,0.974846125,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14199,11,14188
+B06,03-27-24-1,,Sample,Day13,KPC,,,2,1.418207884,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14199,16,14183
+B07,04-10-24-3,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11495,0,11495
+B07,04-10-24-3,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11495,0,11495
+B08,04-10-24-3,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14876,0,14876
+B08,04-10-24-3,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14876,0,14876
+B09,04-10-24-3,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14784,0,14784
+B09,04-10-24-3,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14784,0,14784
+B10,05-01-24-2,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,5955,10,5945
+B10,05-01-24-2,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,5955,0,5955
+B11,05-01-24-2,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,7639,0,7639
+B11,05-01-24-2,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,7639,0,7639
+B12,05-01-24-2,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10530,0,10530
+B12,05-01-24-2,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10530,0,10530
+C04,03-27-24-2,,Sample,Day13,Van A,,,1,1.137013435,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15495,14,15481
+C04,03-27-24-2,,Sample,Day13,KPC,,,2,1.055764079,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15495,13,15482
+C05,03-27-24-2,,Sample,Day13,Van A,,,1,1.375369787,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14641,16,14625
+C05,03-27-24-2,,Sample,Day13,KPC,,,2,1.117373466,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14641,13,14628
+C06,03-27-24-2,,Sample,Day13,Van A,,,1,0.777033389,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16193,10,16183
+C06,03-27-24-2,,Sample,Day13,KPC,,,2,1.39900589,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16193,18,16175
+C07,04-17-24-1,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12117,0,12117
+C07,04-17-24-1,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12117,0,12117
+C08,04-17-24-1,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14136,0,14136
+C08,04-17-24-1,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14136,0,14136
+C09,04-17-24-1,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16054,0,16054
+C09,04-17-24-1,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16054,0,16054
+C10,05-01-24-3,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,7233,14,7219
+C10,05-01-24-3,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,7233,0,7233
+C11,05-01-24-3,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,7967,5,7962
+C11,05-01-24-3,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,7967,0,7967
+C12,05-01-24-3,,Sample,Day48,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10665,0,10665
+C12,05-01-24-3,,Sample,Day48,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10665,0,10665
+D04,03-27-24-3,,Sample,Day13,Van A,,,1,1.04450202,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15662,13,15649
+D04,03-27-24-3,,Sample,Day13,KPC,,,2,1.285664082,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15662,16,15646
+D05,03-27-24-3,,Sample,Day13,Van A,,,1,1.566364288,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,17678,22,17656
+D05,03-27-24-3,,Sample,Day13,KPC,,,2,1.210201144,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,17678,17,17661
+D06,03-27-24-3,,Sample,Day13,Van A,,,1,0.698100984,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16221,9,16212
+D06,03-27-24-3,,Sample,Day13,KPC,,,2,1.318960667,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16221,17,16204
+D07,04-17-24-2,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12673,0,12673
+D07,04-17-24-2,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12673,0,12673
+D08,04-17-24-2,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15592,0,15592
+D08,04-17-24-2,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15592,0,15592
+D09,04-17-24-2,,Sample,Day34,Van A,,,1,0.568653524,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13275,6,13269
+D09,04-17-24-2,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13275,0,13275
+E04,04-03-24-1,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15579,0,15579
+E04,04-03-24-1,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15579,0,15579
+E05,04-03-24-1,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16747,0,16747
+E05,04-03-24-1,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16747,0,16747
+E06,04-03-24-1,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,12656,0,12656
+E06,04-03-24-1,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,12656,0,12656
+E07,04-17-24-3,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13002,0,13002
+E07,04-17-24-3,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13002,0,13002
+E08,04-17-24-3,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13924,0,13924
+E08,04-17-24-3,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13924,0,13924
+E09,04-17-24-3,,Sample,Day34,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13821,0,13821
+E09,04-17-24-3,,Sample,Day34,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13821,0,13821
+F04,04-03-24-2,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,18792,0,18792
+F04,04-03-24-2,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,18792,0,18792
+F05,04-03-24-2,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14562,0,14562
+F05,04-03-24-2,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14562,0,14562
+F06,04-03-24-2,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16016,0,16016
+F06,04-03-24-2,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16016,0,16016
+F07,04-24-24-1,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10132,0,10132
+F07,04-24-24-1,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10132,0,10132
+F08,04-24-24-1,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16274,0,16274
+F08,04-24-24-1,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16274,0,16274
+F09,04-24-24-1,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13518,0,13518
+F09,04-24-24-1,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13518,0,13518
+G01,03-20-24-Control4,,Sample,Day6,Van A,,,1,1.717340946,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13926,19,13907
+G01,03-20-24-Control4,,Sample,Day6,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13926,17,13909
+G02,03-20-24-Control4,,Sample,Day6,Van A,,,1,0.547083259,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16098,7,16091
+G02,03-20-24-Control4,,Sample,Day6,KPC,,,2,0.625257432,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16098,8,16090
+G03,03-20-24-Control4,,Sample,Day6,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16306,0,16306
+G03,03-20-24-Control4,,Sample,Day6,KPC,,,2,0.231444389,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16306,3,16303
+G04,04-03-24-3,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,17946,0,17946
+G04,04-03-24-3,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,17946,0,17946
+G05,04-03-24-3,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,17134,0,17134
+G05,04-03-24-3,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,17134,0,17134
+G06,04-03-24-3,,Sample,Day20,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15265,0,15265
+G06,04-03-24-3,,Sample,Day20,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15265,0,15265
+G07,04-24-24-2,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,10693,0,10693
+G07,04-24-24-2,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,10693,0,10693
+G08,04-24-24-2,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15406,0,15406
+G08,04-24-24-2,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15406,0,15406
+G09,04-24-24-2,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14673,0,14673
+G09,04-24-24-2,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14673,0,14673
+H01,03-20-24-Control5,,Sample,Day6,Van A,,,1,0.424773872,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11847,4,11843
+H01,03-20-24-Control5,,Sample,Day6,KPC,,,2,0.743448436,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11847,7,11840
+H02,03-20-24-Control5,,Sample,Day6,Van A,,,1,0.710633934,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15935,9,15926
+H02,03-20-24-Control5,,Sample,Day6,KPC,,,2,0.631654799,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15935,8,15927
+H03,03-20-24-Control5,,Sample,Day6,Van A,,,1,0.610538363,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,16486,8,16478
+H03,03-20-24-Control5,,Sample,Day6,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,16486,0,16486
+H04,04-10-24-1,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15508,0,15508
+H04,04-10-24-1,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15508,0,15508
+H05,04-10-24-1,,Sample,Day27,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,13675,0,13675
+H05,04-10-24-1,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,13675,0,13675
+H06,04-10-24-1,,Sample,Day27,Van A,,,1,0.603063703,OK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14604,7,14597
+H06,04-10-24-1,,Sample,Day27,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14604,0,14604
+H07,04-24-24-3,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,11565,8,11557
+H07,04-24-24-3,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,11565,0,11565
+H08,04-24-24-3,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,15779,0,15779
+H08,04-24-24-3,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,15779,0,15779
+H09,04-24-24-3,,Sample,Day41,Van A,,,1,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),FAM,14159,0,14159
+H09,04-24-24-3,,Sample,Day41,KPC,,,2,0,CHECK,DQ,Unknown,Unknown,ddPCR Supermix for Probes (No dUTP),HEX,14159,0,14159
