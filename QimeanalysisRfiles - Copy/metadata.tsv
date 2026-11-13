@@ -1,0 +1,81 @@
+sample-id	SampleType	SampleCondition	SampleWeek
+BBC-03-20-2024-4	Bulkwater-Control	First-Run	Week 1
+BBC-03-20-2024-5	Bulkwater-Control	First-Run	Week 1
+BBC-03-20-2024-6	Bulkwater-Control	First-Run	Week 1
+BBC-03-27-2024-1	Bulkwater-Control	First-Run	Week 2
+BBC-03-27-2024-2	Bulkwater-Control	First-Run	Week 2
+BBC_03_27_2024_3	Bulkwater-Control	First-Run	Week 2
+BBC-04-03-2024-1	Bulkwater-Control	First-Run	Week 3
+BBC-04-10-2024-1	Bulkwater-Control	First-Run	Week 4
+BBC-04-17-2024-1	Bulkwater-Control	First-Run	Week 5
+BBC-04-24-2024-1	Bulkwater-Control	First-Run	Week 6
+BBC-05-01-2024-1	Bulkwater-Control	First-Run	Week 7
+BBC-07-03-2024-3	Bulkwater-Control	Second-Run	Week 1
+BBC_07_10_2024_2	Bulkwater-Control	Second-Run	Week 2
+BBC-07-17-2024-3	Bulkwater-Control	Second-Run	Week 3
+BBC-07-20-2024-3	Bulkwater-Control	Second-Run	Week 4
+BBC_07_31_2024_3	Bulkwater-Control	Second-Run	Week 5
+BBC_08_07_2024_1	Bulkwater-Control	Second-Run	Week 6
+BBC_08_14_2024_3	Bulkwater-Control	Second-Run	Week 7
+BBC_08_21_2024_3	Bulkwater-Control	Second-Run	Week 8
+BBC_08_28_2024_2	Bulkwater-Control	Second-Run	Week 9
+BBC-09-04-2024-3	Bulkwater-Control	Second-Run	Week 10
+BBS-03-20-2024-10	Bulkwater-Spiked	First-Run	Week 1
+BBS-03-20-2024-11	Bulkwater-Spiked	First-Run	Week 1
+BBS-03-20-2024-12	Bulkwater-Spiked	First-Run	Week 1
+BBS-07-03-2024-3	Bulkwater-Spiked	Second-Run	Week 1
+BBS-07-10-2024-1	Bulkwater-Spiked	Second-Run	Week 2
+BBS_07_17_2024_2	Bulkwater-Spiked	Second-Run	Week 3
+BBS_07_24_2024_2	Bulkwater-Spiked	Second-Run	Week 4
+BBS_07_31_2024_1	Bulkwater-Spiked	Second-Run	Week 5
+BBS_08_07_2024_2	Bulkwater-Spiked	Second-Run	Week 6
+BBS_08_14_2024_2	Bulkwater-Spiked	Second-Run	Week 7
+BBS-08-21-2024-2	Bulkwater-Spiked	Second-Run	Week 8
+BBS_08_28_2024_2	Bulkwater-Spiked	Second-Run	Week 9
+BBS_09_04_2024_1	Bulkwater-Spiked	Second-Run	Week 10
+BFC-03-27-2024-1	Biofilm-Control	First-Run	
+BFC-04-10-2024	Biofilm-Control	First-Run	
+BFC-04-17-2024-1	Biofilm-Control	First-Run	
+BFC-04-24-2024-1	Biofilm-Control	First-Run	
+BFC-05-01-2024-1	Biofilm-Control	First-Run	
+BFC-07-10-2024-2	Biofilm-Control	Second-Run	Week 2
+BFC_07_17_2024_3	Biofilm-Control	Second-Run	Week 3
+BFC-07-24-2024-3	Biofilm-Control	Second-Run	Week 4
+BFC-07-31-2024-2	Biofilm-Control	Second-Run	Week 5
+BFC-08-07-2024-2	Biofilm-Control	Second-Run	Week 6
+BFC-08-14-2024-3	Biofilm-Control	Second-Run	Week 7
+BFC_08_21_2024_2	Biofilm-Control	Second-Run	Week 8
+BFC-08-28-2024-3	Biofilm-Control	Second-Run	Week 9
+BFC_09_04_2024_1	Biofilm-Control	Second-Run	Week 10
+BFS-07-10-2024-1	Biofilm-Spiked	Second-Run	Week 2
+BFS-07-17-2024-2	Biofilm-Spiked	Second-Run	Week 3
+BFS-07-24-2024-3	Biofilm-Spiked	Second-Run	Week 4
+BFS_07_31_2024_2	Biofilm-Spiked	Second-Run	Week 5
+BFS-08-07-2024-2	Biofilm-Spiked	Second-Run	Week 6
+BFS-08-14-2024-1	Biofilm-Spiked	Second-Run	Week 7
+BFS-08-21-2024-1	Biofilm-Spiked	Second-Run	Week 8
+BFS-08-28-2024-3	Biofilm-Spiked	Second-Run	Week 9
+BFS-09-04-2024-1	Biofilm-Spiked	Second-Run	Week 10
+PLWSA-B-Inf-04-25-24-1	Field-Biofilm	Second-Run	Week0
+PLWSA-B-Inf-04-25-24-2	Field-Biofilm	Second-Run	Week0
+PLWSA-B-Inf-04-25-24-3	Field-Biofilm	Second-Run	Week0
+PLWSA-B-Inf-04-25-24-4	Field-Biofilm	Second-Run	Week0
+PLWSA-B-Inf-04-25-24-5	Field-Biofilm	Second-Run	Week0
+PLWSA-B-Inf-04-25-24-6	Field-Biofilm	Second-Run	Week0
+PLWSA_Inf_03_14_2024	Influent	First-Run	Week 1
+PLWSA_Inf_03_21_2024	Influent	First-Run	Week 2
+PLWSA-Inf-03-28-24	Influent	First-Run	Week 3
+PLWSA-Inf-04-04-24	Influent	First-Run	Week 4
+PLWSA-Inf-04-11-24	Influent	First-Run	Week 5
+PLWSA-Inf-04-18-24	Influent	First-Run	Week 6
+PLWSA-Inf-04-25-24	Influent	First-Run	Week 7
+PLWSA-Inf-06-27-2024-3	Influent	Second-Run	Week 1
+PLWSA-Inf-07-04-2024-1	Influent	Second-Run	Week 2
+PLWSA-Inf-07-11-2024-1	Influent	Second-Run	Week 3
+PLWSA-Inf-07-18-2024-3	Influent	Second-Run	Week 4
+PLWSA-Inf-07-25-2024-5	Influent	Second-Run	Week 5
+PLWSA-Inf-08-01-2024-5	Influent	Second-Run	Week 6
+PLWSA-Inf-08-08-2024-1	Influent	Second-Run	Week 7
+PLWSA-Inf-08-15-2024-2	Influent	Second-Run	Week 8
+PLWSA-Inf-08-22-2024-6	Influent	Second-Run	Week 9
+PLWSA-Inf-08-29-2024-6	Influent	Second-Run	Week 10
